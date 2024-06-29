@@ -1,0 +1,18 @@
+credentials:
+  usernames:
+    IDC:
+      email: idc@
+      failed_login_attempts: 0
+      logged_in: False
+      name: IDC
+      password: 123a  # Exemplo de hash de senha
+    JOSE:
+      email: jose@
+      failed_login_attempts: 0
+      logged_in: False
+      name: JOSE
+      password: 123a  # Exemplo de hash de senha
+cookie:
+  expiry_days: 1
+  key: some_signature_key
+  name: some_cookie_name
